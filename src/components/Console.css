@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&family=Ubuntu:wght@300&display=swap');
+
+.console{
+    padding: 5px;
+    position: relative;
+    height: 200px;
+    width: 90%;
+    background: black;
+    border-radius: 5px;
+    box-shadow: 7px 7px 20px rgb(101,101,101);
+    margin: auto;
+    top: 50px;
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+}

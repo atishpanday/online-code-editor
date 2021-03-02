@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&family=Ubuntu:wght@300&display=swap');
+
+.header{
+    color:white;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 30px;
+    width: fit-content;
+    height: 70px; 
+    position: relative; 
+    left: 50%;
+    transform: translateX(-50%);
+}
